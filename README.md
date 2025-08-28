@@ -1,0 +1,1 @@
+Courses taught in 2023 by Valentin Guigon and Julien Benistant for the PhD students of the doctorate school NSCO (Université Claude Bernard Lyon 1), on preprocessing and contrasting fMRI data with SPM 12.
